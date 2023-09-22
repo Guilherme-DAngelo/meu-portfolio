@@ -8,7 +8,7 @@ export function Contact(){
   return(
     <Container id="contato">
       <header>
-        <h2>Gostou do que viu? Então entre em contato comigo 📱</h2>
+        <h2>Gostou do que viu? Entre em contato comigo 📱</h2>
         <p>Responderei o mais rápido possível.</p>
       </header>
       <div className="contacts">
