@@ -1,4 +1,4 @@
-# Meu Portfólio
+# Meu Portfólio com React
 
 ## Visão Geral
 
@@ -6,7 +6,7 @@ Esse projeto reúne minhas habilidades, competências, qualificações e experi�
 
 ### Resultado
 
-![](src/design/project.gif)
+![](public/design/project.gif)
 
 [Clique aqui para acessar a página da aplicação](https://my-portfolio-rho-two-94.vercel.app)
 
@@ -14,7 +14,7 @@ Esse projeto reúne minhas habilidades, competências, qualificações e experi�
 
 A aplicação também foi feita para ser funcionar e ser responsiva em diversas resoluções, incluindo celulares
 
-![](src/design/mobile.gif)
+![](public/design/mobile.gif)
 
 ## Meu processo de criação 
 
