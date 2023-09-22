@@ -8,7 +8,7 @@ Esse projeto reúne minhas habilidades, competências, qualificações e experi�
 
 ![](public/design/project.gif)
 
-[Clique aqui para acessar o meu portfólio](https://meu-portfolio-i3mlz7fmy-guilherme-dangelo.vercel.app)
+[Clique aqui para acessar o meu portfólio](https://meu-portfolio-phi-six.vercel.app)
 
 ### Design Responsivo
 
