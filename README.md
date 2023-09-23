@@ -6,7 +6,7 @@ Esse projeto reúne minhas habilidades, competências, qualificações e experi�
 
 ### Resultado
 
-![](public/design/project.gif)
+![](public/design/)
 
 [Clique aqui para acessar o meu portfólio](https://meu-portfolio-phi-six.vercel.app)
 
