@@ -6,7 +6,7 @@ Esse projeto reúne minhas habilidades, competências, qualificações e experi�
 
 ### Resultado
 
-![](public/design/)
+![](public/design/project.gif)
 
 [Clique aqui para acessar o meu portfólio](https://meu-portfolio-phi-six.vercel.app)
 
@@ -20,7 +20,7 @@ A aplicação também foi feita para ser funcionar e ser responsiva em diversas 
 
 ### Feito com:
 
-- ReactJS - O framework utilizada.
+- ReactJS - O framework utilizado.
 - Styled Components - A biblioteca utilizada, para estilizar o portfólio.
 - TypeScript - A linguagem de programação principal.
 
