@@ -14,10 +14,10 @@ export function Hero(){
           <h1>Guilherme D'Angelo</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Desenvolvedor Web Full Stack Jr. 💻</h3>
+          <h3>Desenvolvedor Web Full Stack 💻</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Sou um Desenvolvedor Web Full Stack Júnior com foco em desenvolvimento com JavaScript.</p>
+          <p className="small-resume">Sou um Desenvolvedor Web Full Stack com foco em desenvolvimento com JavaScript.</p>
         </ScrollAnimation>
 
           <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
