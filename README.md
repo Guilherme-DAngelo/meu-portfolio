@@ -8,7 +8,7 @@ Esse projeto reúne minhas habilidades, competências, qualificações e experi�
 
 ![](public/design/project.gif)
 
-[Clique aqui para acessar o meu portfólio](https://meu-portfolio-i3mlz7fmy-guilherme-dangelo.vercel.app)
+[Clique aqui para acessar o meu portfólio](https://meu-portfolio-phi-six.vercel.app)
 
 ### Design Responsivo
 
@@ -20,9 +20,9 @@ A aplicação também foi feita para ser funcionar e ser responsiva em diversas 
 
 ### Feito com:
 
-- ReactJS - A biblioteca utilizada
-- Styled Components - Para estilizar o portfólio
-- TypeScript - A linguagem de programação principal
+- ReactJS - O framework utilizada.
+- Styled Components - A biblioteca utilizada, para estilizar o portfólio.
+- TypeScript - A linguagem de programação principal.
 
 <br>
 
