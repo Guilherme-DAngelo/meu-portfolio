@@ -4,6 +4,7 @@ import { NavHashLink, HashLink } from 'react-router-hash-link'
 import { useState } from 'react'
 
 import Curriculo from '../../assets/CV_Guilherme-DAngelo-Dev.pdf'
+
 export function Header() {
   const [isActive, setActive] = useState(false)
 
