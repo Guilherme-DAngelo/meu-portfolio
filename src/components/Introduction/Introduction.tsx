@@ -17,7 +17,7 @@ export function Hero(){
           <h3>Desenvolvedor Full Stack 💻</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Sou um Desenvolvedor Full Stack com foco em desenvolvimento Web.</p>
+          <p className="small-resume">Sou um Desenvolvedor Full Stack com mais de 2 anos de experiência sólida na área de tecnologia.</p>
         </ScrollAnimation>
 
           <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
